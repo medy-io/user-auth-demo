@@ -1,0 +1,5 @@
+{
+    "jwtPrivateKey": "card_borrower_jwtPrivateKey",
+    "mongoDB_URL": "mongodb://localhost/card-borrower-db",
+    "CLIENT_ORIGIN": "http://localhost:3001"
+}
