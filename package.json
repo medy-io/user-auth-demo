@@ -12,7 +12,7 @@
     "@types/react-notify-toast": "^0.5.2",
     "@types/react-router": "^5.0.1",
     "@types/react-router-dom": "^4.3.3",
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "joi": "^14.3.1",
